@@ -1,6 +1,20 @@
 # Deep Learning Based Intrusion Detection System: Modern Approach
 
-### DOI: [10.1109/GCAT52182.2021.9587719](https://doi.org/10.1109/GCAT52182.2021.9587719)
+# Abstract
+Security issues in the network are continuously emerging, and are harder to keep track of all the time. The ongoing problem for existing network operators is to avoid malicious network attackers from infiltrating the infrastructure and network so that the network and the systems can be safe and reliable. This paper proposes a Deep Learning based Intrusion Detection System for Modern Scenarios. The method uses deep neural networks to define features of the network data, and a mid-level network learning to decide on the presence of vulnerabilities. The method was validated with the KDDCup99 Dataset and the NSL-KDD Dataset. This experiment demonstrates that the proposed methodology outperforms conventional machine learning significantly.
+
+# Conference:
+2021 2nd Global Conference for Advancement in Technology (GCAT)
+
+# Date:
+01-03 October 2021
+
+# Publisher:
+IEEE
+
+# DOI: 
+[10.1109/GCAT52182.2021.9587719](https://doi.org/10.1109/GCAT52182.2021.9587719)
+
 
 ![2](https://user-images.githubusercontent.com/20646204/183686836-e16e371e-6968-4fee-aa2d-e91195594234.PNG)
 
